@@ -1,4 +1,4 @@
-package main.java.JavaBook_2;
+package frame;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

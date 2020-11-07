@@ -1,4 +1,4 @@
-package main.java.JavaBook_2;
+package frame;
 
 /**
  * @ClassName BookCaoZuo
@@ -8,5 +8,5 @@ package main.java.JavaBook_2;
  **/
 public interface BookCaoZuo {
    boolean checkHealth(Book book) throws IsbnException,
-           BookNameException,PriceException;
+           BookNameException;
 }

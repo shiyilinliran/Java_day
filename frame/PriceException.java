@@ -1,4 +1,4 @@
-package main.java.JavaBook_2;
+package frame;
 
 /**
  * @ClassName PriceException
